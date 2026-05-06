@@ -1,0 +1,141 @@
+{
+"name": "ฟรีทีวี  ",
+"author": "ฟรีทีวี ",
+"image": "https://img2.pic.in.th/3986946_ico.png",
+"url": "https://docs.google.com/uc?export=download&id=1RrLqpR6tGnpvcQ06qY-3B3dqQibk6N53",
+"groups": [
+
+
+ {
+"name": "กดก่อนทุกครั้ง  ",
+"image": "https://www.dropbox.com/scl/fi/njmir0w6ayxapkd0y7xt0/.gif?rlkey=5rvfy20xre15qbgsdjgalu7t7&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1RrLqpR6tGnpvcQ06qY-3B3dqQibk6N53",
+"import": false 
+},
+
+{
+"name": "ฟรีทีวี  ",
+"author": "ฟรีทีวี ",
+"image": "https://img2.pic.in.th/3986946_ico.png",
+"url": "https://docs.google.com/uc?export=download&id=11ZocU_q36HwsTwuT-dGuZm2hc6Gjzarc",
+"import": false
+},
+
+{ 
+"name"		: "รวมกีฬา", 
+"image":"https://www.dropbox.com/scl/fi/apdnpdz9pj2rlyla7i06d/.gif?rlkey=bltkcd9p9rleh0vzutxfkufu7&dl=1",
+"url"		: "https://docs.google.com/uc?export=download&id=1nQAAcuX3dEWdBB1CWeY8s5uqo_xj69ue"
+}, 
+
+{
+"name": "หนัง HD", 
+"image": "https://img2.pic.in.th/3986946_ico.png", 
+"url": "https://docs.google.com/uc?export=download&id=1EakmaeXSVU4HL23HsSb41cyXjlJ7oB9_",
+"import": "true"
+},
+{
+"name" : "รวมซีรี่ย์่",
+"image" : "https://img2.pic.in.th/3986946_ico.png",
+"url"  : "https://docs.google.com/uc?export=download&id=1m-iHWKnI883dzHPGZJECMo4GXMUzSjQa",
+"import": "true"
+},
+{
+"name": "ช่องหนัง ออนไลน์",
+"image": "https://img2.pic.in.th/3986946_ico.png",
+"url": "https://docs.google.com/uc?export=download&id=1rWtTykWRu_SGQcCbOY_vvSQjFlkqzMey",
+"import": "true"
+},
+{
+"name": "สารคดี", 
+"image": "https://img2.pic.in.th/3986946_ico.png",
+"url": "https://docs.google.com/uc?export=download&id=1EmByi-DuZxh-nC6LBaYitVFDH1KJeUZP",
+"import": false
+},
+{
+"name": "Cartoons", 
+"image": "https://img2.pic.in.th/3986946_ico.png", 
+"url": "https://docs.google.com/uc?export=download&id=1oZCHdnBJat53eg0XZRIP6YKxmeJmm5VB",
+"import": "true"
+},
+{
+"name": "การตูนย์อนิเมชั่น",
+"image": "https://img2.pic.in.th/3986946_ico.png",
+"url" : "https://docs.google.com/uc?export=download&id=1iSJvaDOCiEXb7w2-1aU2RrMs_oh5h3I4",
+"import": "true"
+},
+{
+"name": "ละคร ทีวี",
+"image": "https://img2.pic.in.th/3986946_ico.png", 
+"url": "https://docs.google.com/uc?export=download&id=1eXV4F7VPT16ryEdOcJU3X-C_GQGucFSl",
+"import": false
+},
+
+{
+"name": "🎵 ช่องเพลง",
+"image": "https://img2.pic.in.th/3986946_ico.png",
+"url": "https://docs.google.com/uc?export=download&id=1aeIYj2VU7qe7j0RbSC2fWNJhqf5F9ZZ-",
+"import": false
+},
+{
+"name": "วิทยุออนไลน์",  
+"image": "https://img2.pic.in.th/3986946_ico.png", 
+"url": "https://docs.google.com/uc?export=download&id=15zoaOTufm9ef9J9BOzQ0C_BEQ1sYMWbz",
+"import": false
+},
+
+{"name": "คอนเสิร์ต รวม  ",
+"image": "https://img2.pic.in.th/3986946_ico.png",
+"url": "https://docs.google.com/uc?export=download&id=1hZjgsLveq1lkBH-hu5gZYdSqR5bdlZkD",
+"import": false
+},
+
+{"name": "หนังตะลุง  ",
+"image": "https://img2.pic.in.th/3986946_ico.png",
+"url": "https://docs.google.com/uc?export=download&id=1HXoa2FlYMC5AIVz3ghZMVcif8Jxnvy2A",
+"import": false
+},
+{
+"name": "รายการตลก",
+"image": "https://img2.pic.in.th/3986946_ico.png",
+"url": "https://docs.google.com/uc?export=download&id=1AySDN2us97OJ1RNqxE40sKI7bXjrsZXh",
+"import": false
+},
+{
+"name":"เรื่องหลอนๆ",
+"image":"https://img2.pic.in.th/3986946_ico.png",
+"url":"https://docs.google.com/uc?export=download&id=1edkY41rBasa_rHCxVvO5_7y2gg9WqbCZ",
+"import": false
+},	
+{
+"name":"ช่องการศึกษา",
+"image":"https://img2.pic.in.th/3986946_ico.png",
+"url":"https://docs.google.com/uc?export=download&id=1MkVazTWUdZB2L5apQmi37Vxjz9ri3QyU",
+"import": false
+},	
+{
+"name": "ช่อง TV ทั่วโลก",
+"image": "https://img2.pic.in.th/3986946_ico.png",
+"url": "https://docs.google.com/uc?export=download&id=1GzFJL42pc2POBxZXtzByK-z-CBWCXz_q",
+"import": "false"
+}, 
+{
+"name": "News ข่าวทั่วโลก",
+image:"https://img2.pic.in.th/3986946_ico.png",
+"url": "https://docs.google.com/uc?export=download&id=1wvYVGTnk-Z-4W21r_Io4JSPQC0Adp5Ns",
+"import": "true"
+},
+{
+"name": "ธรรมะ บทสวด",
+"image": "https://img2.pic.in.th/3986946_ico.png",
+"url": "https://docs.google.com/uc?export=download&id=1WhBud7rahVPGKRH7ng4kRwlrzE4prwC8",
+"import": false
+},
+{
+"name": "หนัง ผู้ใหญ่",
+"image": "https://img2.pic.in.th/3986946_ico.png",
+"url": "https://docs.google.com/uc?export=download&id=1jKMRubxcwldyPVb4MzL3YFZd-hMh326A",
+"import": "true"
+},      
+
+
+]}
