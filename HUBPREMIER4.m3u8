@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,NAME="1"
+http://mag.nando2025.vip/play/live.php?mac=00:1B:79:3F:12:EE&stream=1314080&extension=m3u8
