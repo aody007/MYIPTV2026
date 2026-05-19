@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,NAME="1"
+https://love.mm0skqk7on.workers.dev/lx-origin/hd-tsport4_480/playlist.m3u8
