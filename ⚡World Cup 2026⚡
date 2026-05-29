@@ -1,0 +1,972 @@
+#EXTM3U 
+
+#https://www.dropbox.com/scl/fi/gfuh3y97zhjw27docsfa1/AODY?rlkey=zfl5jwfxite89cc4xerne04t6&dl=0
+#Playlist URL=https://dl.dropboxusercontent.com/scl/fi/gfuh3y97zhjw27docsfa1/AODY?rlkey=zfl5jwfxite89cc4xerne04t6&dl=0
+
+
+
+#EXTINF:-1 tvg-id="0" tvg-name="FIFA+ FHD DE" tvg-logo="https://s12.gifyu.com/images/SV3ZE.png" group-title="⚡World Cup 2026⚡",FIFA+ FHD DE
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/1416384
+#EXTINF:-1 tvg-id="" tvg-name="SS FIFA WC" tvg-logo="https://logo.m3uassets.com/supersportfootballplus.png" group-title="⚡World Cup 2026⚡",FIFA WC
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/2364388
+
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="http://xplatinmedia.com:8080/images/563c125dc3c0cb77ff2de1c03f033d7a.png" group-title="⚡World Cup 2026⚡",Telemundo
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/2252823
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://logo.m3uassets.com/telemundo.png" group-title="⚡World Cup 2026⚡",TELEMUNDO
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/1804839
+
+
+#EXTINF:-1 tvg-id="nbcuniverso.us" tvg-name="NBC Universo UHD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/NBC_Universal.svg/1920px-NBC_Universal.svg.png?_=20230821162848" group-title="⚡World Cup 2026⚡",NBC Universo UHD US
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/2121860
+#EXTINF:-1 tvg-id="" tvg-name="Nbc Universo FHD LAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/NBC_Universal.svg/1920px-NBC_Universal.svg.png?_=20230821162848" group-title="⚡World Cup 2026⚡",NBC Universo FHD LAM
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/45832
+
+
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/tsn-1.png" group-title="⚡World Cup 2026⚡",TSN 1 HD
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/10921
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18990_h15_ab.png" group-title="⚡World Cup 2026⚡",TSN 2 HD
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2124350
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/10920
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/10919
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/tsn-3.png" group-title="⚡World Cup 2026⚡",TSN 3 HD
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/10917
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/10918
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tsn4.png" group-title="⚡World Cup 2026⚡",TSN 4 HD
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/10916
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2124351
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2124353
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tsn5.png" group-title="⚡World Cup 2026⚡",TSN 5 HD
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/10914
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2124352
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2124354
+
+#EXTINF:-1 tvg-id="" tvg-name="FS1 UHD US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/FS1_New_Logo.svg/revision/latest/scale-to-width-down/78?cb=20230817005648" group-title="⚡World Cup 2026⚡",FS1 UHD US
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/2121814
+#EXTINF:-1 tvg-id="" tvg-name="FS2 UHD US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/FS2_logo.svg/revision/latest/scale-to-width-down/78?cb=20230817004849" group-title="⚡World Cup 2026⚡",FS2 UHD US
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/2121815
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="USA Fox Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/FS1_New_Logo.svg/revision/latest/scale-to-width-down/78?cb=20230817005648" group-title="⚡World Cup 2026⚡",USA Fox Sports 1
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/71706
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="USA Fox Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/FS2_logo.svg/revision/latest/scale-to-width-down/78?cb=20230817004849" group-title="⚡World Cup 2026⚡",USA Fox Sports 2
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/71705
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 FHD LAM" tvg-logo="https://logo.m3uassets.com/foxsports1lam.png" group-title="⚡World Cup 2026⚡",Fox Sports 1 FHD LAM
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/45769
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 FHD LAM" tvg-logo="https://logo.m3uassets.com/foxsports2lam.png" group-title="⚡World Cup 2026⚡",FOX SPORTS 2 FHD LAM
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/45772
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/45771
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 FHD LAM" tvg-logo="https://logo.m3uassets.com/foxsports3lam.png" group-title="⚡World Cup 2026⚡",FOX SPORTS 3 FHD LAM
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/45774
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/45773
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium LAM" tvg-logo="https://logo.m3uassets.com/foxsportspremiumlam.png" group-title="⚡World Cup 2026⚡",Fox Sports Premium LAM
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/45775
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS RACING" tvg-logo="https://logo.m3uassets.com/foxsportsracing.png" group-title="⚡World Cup 2026⚡",FOX SPORTS RACING
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/1804715
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD LAM" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" group-title="⚡World Cup 2026⚡",ESPN FHD LAM
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/45739
+#EXTINF:-1 tvg-id="" tvg-name="ESPN LAM" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" group-title="⚡World Cup 2026⚡",ESPN LAM
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/45738
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD LAM" tvg-logo="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2-1024x576.png" group-title="⚡World Cup 2026⚡",ESPN 2 FHD LAM
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/45741
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ESPN 2 LAM" tvg-logo="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2-1024x576.png" group-title="⚡World Cup 2026⚡",ESPN 2 LAM
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/45740
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD LAM" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo-615x405.jpg" group-title="⚡World Cup 2026⚡",ESPN 3 FHD LAM
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/45743
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 LAM" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo-615x405.jpg" group-title="⚡World Cup 2026⚡",ESPN 3 LAM
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/45742
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Plus FHD LAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png?_=20120212023640" group-title="⚡World Cup 2026⚡",ESPN Plus FHD LAM
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/45746
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Plus LAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png?_=20120212023640" group-title="⚡World Cup 2026⚡",ESPN Plus LAM
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/45745
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes FHD LAM" tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="⚡World Cup 2026⚡",ESPN Deportes FHD LAM
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/45744
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="ESPN U FHD LAM" tvg-logo="https://espnpressroom.com/us/files/2020/07/ESPNU-1-780x470.png" group-title="⚡World Cup 2026⚡",ESPN U FHD LAM
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/45748
+
+
+
+
+
+
+**"⚡AODY⚡"**
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/hd-ch3.png" group-title="⚡AODY⚡",3HD
+http://3bb.engatetv.com:25461/hstn/line/18
+#EXTINF:-1 tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="⚡AODY⚡",5HD
+http://3bb.engatetv.com:25461/hstn/line/112
+#EXTINF:-1 tvg-name="" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png" group-title="⚡AODY⚡",7HD
+http://3bb.engatetv.com:25461/hstn/line/20
+#EXTINF:-1 tvg-name="" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/30.png" group-title="⚡AODY⚡",MCOTHD
+http://3bb.engatetv.com:25461/hstn/line/15
+#EXTINF:-1 tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="⚡AODY⚡",PPTV
+http://3bb.engatetv.com:25461/hstn/line/21
+#EXTINF:-1 tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png" group-title="⚡AODY⚡",THAI PBS3
+http://3bb.engatetv.com:25461/hstn/line/5
+#EXTINF:-1 tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="⚡AODY⚡",THAIRATH
+http://3bb.engatetv.com:25461/hstn/line/17
+#EXTINF:-1 tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="⚡AODY⚡",AMARIN
+http://3bb.engatetv.com:25461/hstn/line/19
+#EXTINF:-1 tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="⚡AODY⚡",ONE31
+http://3bb.engatetv.com:25461/hstn/line/16
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/NBT2_HD.png" group-title="⚡AODY⚡",NBT2
+http://3bb.engatetv.com:25461/hstn/line/4
+#EXTINF:-1 tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/22_Nation_2025.png" group-title="⚡AODY⚡",NATION
+http://3bb.engatetv.com:25461/hstn/line/9
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/TNN16.png" group-title="⚡AODY⚡",TNN16
+http://3bb.engatetv.com:25461/hstn/line/7
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/TPTV_2025.png" group-title="⚡AODY⚡",TPTV
+http://3bb.engatetv.com:25461/hstn/line/6
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/hd-workpoint.png" group-title="⚡AODY⚡",WORKPOINT
+http://3bb.engatetv.com:25461/hstn/line/10
+#EXTINF:-1 tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="⚡AODY⚡",MONO29
+http://3bb.engatetv.com:25461/hstn/line/14
+#EXTINF:-1 tvg-name="" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png" group-title="⚡AODY⚡",GMM25
+http://3bb.engatetv.com:25461/hstn/line/12
+#EXTINF:-1 tvg-name="" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png" group-title="⚡AODY⚡",CH8
+http://3bb.engatetv.com:25461/hstn/line/13
+#EXTINF:-1 tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.webp" group-title="⚡AODY⚡",TRUE4U
+http://3bb.engatetv.com:25461/hstn/line/11
+#EXTINF:-1 tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="⚡AODY⚡",TSport7
+http://3bb.engatetv.com:25461/hstn/line/36
+#EXTINF:-1 tvg-name="" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png"group-title="⚡AODY⚡",Asian-Hits
+http://3bb.engatetv.com:25461/hstn/line/124
+#EXTINF:-1 tvg-name="" tvg-logo="https://img2.pic.in.th/pic/logo_mono29plus0e509b4a491c24bb9672677f67da122f.png"group-title="⚡AODY⚡",MONO29 PLUS+
+http://3bb.engatetv.com:25461/hstn/line/117
+#EXTINF:-1 tvg-name="" tvg-logo="http://45.144.165.187:8080/images/a4a2059acd877b13c756c451ce6e3e9a.png"group-title="⚡AODY⚡",Rock Action
+http://3bb.engatetv.com:25461/hstn/line/88
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="⚡AODY⚡",Love Nature(EN)
+http://3bb.engatetv.com:25461/hstn/line/115
+#EXTINF:-1 tvg-name="" tvg-logo="https://img2.pic.in.th/Boomerang.png" group-title="⚡AODY⚡",BOOME
+http://3bb.engatetv.com:25461/hstn/line/25
+#EXTINF:-1 tvg-name="" tvg-logo="https://img2.pic.in.th/pic/zooo.png" group-title="⚡AODY⚡",ZooMoo
+http://3bb.engatetv.com:25461/hstn/line/31
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/Alure.png" group-title="⚡AODY⚡",Alure Channel
+https://monomax-d1yqi0.cdn.byteark.com/fleetstream/ALURE/1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/RUSH.png" group-title="⚡AODY⚡",RUSH Storie
+https://monomax-bl9d80.cdn.byteark.com/fleetstream/RUSH/1080p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="⚡AODY⚡", Cinemax
+https://love.uh6wzyncw9.workers.dev/lx-origin/th-cinemax_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="⚡AODY⚡",HBO
+https://love.bebin98399.workers.dev/lx-origin/th-hbo_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png" group-title="⚡AODY⚡",HBO Hits
+https://love.bebin98399.workers.dev/lx-origin/th-hbohits_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="⚡AODY⚡",HBO Signature
+https://love.bebin98399.workers.dev/lx-origin/th-hbosignature_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="⚡AODY⚡",HBO Family
+https://love.bebin98399.workers.dev/lx-origin/th-hbofamily_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/3bbasian.png" group-title="⚡AODY⚡",Asian Hits
+https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/1080p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png" group-title="⚡AODY⚡",Mono29 Plus
+https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/1080p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png" group-title="⚡AODY⚡",Mono29
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/GmkcfqG9/images-(1).jpg" group-title="⚡AODY⚡",MonoMusic
+https://monomax-ye61nx.cdn.byteark.com/fleetstream/Mono29MusicStation/1080p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp" group-title="⚡AODY⚡",TrueFilmthai
+https://love.sayob28681.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp" group-title="⚡AODY⚡",TrueFilm1HD
+https://love.bebin98399.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="⚡AODY⚡",trueFILM2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/trueFILM2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="⚡AODY⚡",TrueFilmAsia
+https://love.bebin98399.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="⚡AODY⚡",TrueMovieHits
+https://love.bebin98399.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/201c6dd0-d79f-11ee-afcd-214a368edc48_webp_original.webp" group-title="⚡AODY⚡",TrueSeries
+https://love.bebin98399.workers.dev/lx-origin/sd-series_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pic.in.th/images/CCM-removebg-preview.png" group-title="⚡AODY⚡",CCM
+https://love.bebin98399.workers.dev/lx-origin/sd-celestial_480/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png" group-title="⚡AODY⚡",Channel 8
+https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",การ์ตูน
+http://3bb.engatetv.com:25461/hstn/line/120
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",sport
+http://3bb.engatetv.com:25461/hstn/line/26
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",Dubai Cyd
+http://3bb.engatetv.com:25461/hstn/line/37
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",Abc australia
+http://3bb.engatetv.com:25461/hstn/line/41
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",Movie
+http://3bb.engatetv.com:25461/hstn/line/44
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",Moto GP
+http://3bb.engatetv.com:25461/hstn/line/86
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/56
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/57
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/62
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/72
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/82
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/83
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/98
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/111
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/112
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/113
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/117
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/120
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/124
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/125
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/135
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/147
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/31
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/40
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/45
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/50
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/86
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/87
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/99
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/100
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/118
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/119
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/122
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/130
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/131
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/132
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/134
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/135
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/136
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/137
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/138
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/139
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/140
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/141
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/142
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/143
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/144
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/145
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/146
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/147
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/149
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/151
+#EXTINF:-1 tvg-name="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/icon-3BB-GIGATV.png" group-title="⚡AODY⚡",All
+http://3bb.engatetv.com:25461/hstn/line/152
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="⚡SPORTS⚡"tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",Astro Grandstand
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/115617
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/115617
+#EXTINF:-1 group-title="⚡SPORTS⚡"tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png",Astro Football
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/115618
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/115618
+#EXTINF:-1 group-title="⚡SPORTS⚡"tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",Astro Premier League
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/115615
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/115615
+#EXTINF:-1 group-title="⚡SPORTS⚡"tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png",Astro Premier League2
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/115616
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/115616
+
+#EXTINF:-1 group-title="⚡SPORTS⚡" tvg-name="┃BE┃ PLAY SPORTS 1 HD (FR)" tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/SPORTS1HD.png",PLAY SPORTS 1 HD
+http://mag.nando2025.vip/play/live.php?mac=00:1B:79:3F:12:EE&stream=368595&extension=ts
+#EXTINF:-1 group-title="⚡SPORTS⚡" tvg-name="┃BE┃ PLAY SPORTS 2 HD (FR)" tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/SPORTS2HD.png",PLAY SPORTS 2 HD
+http://mag.nando2025.vip/play/live.php?mac=00:1B:79:3F:12:EE&stream=368597&extension=ts
+
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="TNT Sports 1 FHD UK" tvg-logo="https://i.ibb.co/bRXmb9nB/Picsart-25-09-02-14-06-41-675.png" group-title="⚡SPORTS⚡",TNT Sports 1 HD
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/9851
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="TNT Sports 2 FHD UK" tvg-logo="https://i.ibb.co/3Kw0Qx0/Picsart-25-09-02-14-08-15-809.png" group-title="⚡SPORTS⚡",TNT Sports 2 HD
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/9849
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="TNT Sports 3 FHD UK" tvg-logo="https://i.ibb.co/9HtCBh5h/Picsart-25-09-02-14-07-38-454.png" group-title="⚡SPORTS⚡",TNT Sports 3 HD
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/9847
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="TNT Sports 4 FHD UK" tvg-logo="https://i.ibb.co/hRTSwnkP/Picsart-25-09-02-14-07-08-767.png" group-title="⚡SPORTS⚡",TNT Sports 4 HD
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/389197
+
+#EXTINF:-1 group-title="⚡SPORTS⚡" tvg-name="Alwan UFC 4K" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",Alwan UFC
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/AlwanUFC.m3u8
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2098835
+#EXTINF:-1 group-title="⚡SPORTS⚡" tvg-name="Alwan WWE 4K" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",Alwan WWE
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/AlwanWWE.m3u8
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2098836
+#EXTINF:-1 group-title="⚡SPORTS⚡" tvg-name="Alwan F1 4K" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",Alwan F1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/AlwanF1.m3u8
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2098834
+#EXTINF:-1 group-title="⚡SPORTS⚡" tvg-name="Alwan Sport 1 4K" tvg-logo="https://i.ibb.co/zh45jJzb/alwan.png",AlwanSport 1 4K
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/AlwanSport1.m3u8
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2098818
+#EXTINF:-1 group-title="⚡SPORTS⚡" tvg-name="Alwan Sport 2 4K" tvg-logo="https://i.ibb.co/zh45jJzb/alwan.png",AlwanSport 2 4K
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/AlwanSport2.m3u8
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2098820
+#EXTINF:-1 group-title="⚡SPORTS⚡" tvg-name="Alwan Sport 3 4K" tvg-logo="https://i.ibb.co/zh45jJzb/alwan.png",AlwanSport 3 4K
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/AlwanSport3.m3u8
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2098822
+#EXTINF:-1 group-title="⚡SPORTS⚡" tvg-name="Alwan Sport 4 4K" tvg-logo="https://i.ibb.co/zh45jJzb/alwan.png",AlwanSport 4 4K
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/AlwanSport4.m3u8
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2098824
+#EXTINF:-1 group-title="⚡SPORTS⚡" tvg-name="Alwan Sport 5 4K" tvg-logo="https://i.ibb.co/zh45jJzb/alwan.png",AlwanSport 5 4K
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/AlwanSport5.m3u8
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2098826
+#EXTINF:-1 group-title="⚡SPORTS⚡" tvg-name="Alwan Sport 6 4K" tvg-logo="https://i.ibb.co/zh45jJzb/alwan.png",AlwanSport 6 4K
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/AlwanSport6.m3u8
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2098828
+#EXTINF:-1 group-title="⚡SPORTS⚡" tvg-name="Alwan Sport 7 4K" tvg-logo="https://i.ibb.co/zh45jJzb/alwan.png",AlwanSport 7 4K
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/AlwanSport7.m3u8
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2098830
+#EXTINF:-1 group-title="⚡SPORTS⚡" tvg-name="Alwan Sport 8 4K" tvg-logo="https://i.ibb.co/zh45jJzb/alwan.png",AlwanSport 8 4K
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/AlwanSport8.m3u8
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2098831
+#EXTINF:-1 group-title="⚡SPORTS⚡" tvg-name="Alwan Sport 9 4K" tvg-logo="https://i.ibb.co/zh45jJzb/alwan.png",AlwanSport 9 4K
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/AlwanSport9.m3u8
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2098832
+#EXTINF:-1 group-title="⚡SPORTS⚡" tvg-name="Alwan Sport 10 4K" tvg-logo="https://i.ibb.co/zh45jJzb/alwan.png",AlwanSport 10 4K
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/AlwanSport10.m3u8
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/2098833
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/621_e.png" group-title="⚡SPORTS⚡",NOW PREMIER SPORTS 1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/NOWPREMIERSPORTS1.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/622_e.png" group-title="⚡SPORTS⚡",NOW PREMIER SPORTS 2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/NOWPREMIERSPORTS2.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/623_e.png" group-title="⚡SPORTS⚡",NOW PREMIER SPORTS 3
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/NOWPREMIERSPORTS3.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/624_e.png" group-title="⚡SPORTS⚡",NOW PREMIER SPORTS 4
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/NOWPREMIERSPORTS4.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/625_e.png" group-title="⚡SPORTS⚡",NOW PREMIER SPORTS 5
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/NOWPREMIERSPORTS5.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/626_e.png" group-title="⚡SPORTS⚡",NOW PREMIER SPORTS 6
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/NOWPREMIERSPORTS6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pwAhAda.png" group-title="⚡SPORTS⚡",NOW HK PRIME
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/NOWSPORTSPRIME.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/621_e.png" group-title="⚡SPORTS⚡",NOW HK PREMIER SPORTS 1
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:69:EE:24&stream=1032487&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/622_e.png" group-title="⚡SPORTS⚡",NOW HK PREMIER SPORTS 2
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:69:EE:24&stream=1032486&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/623_e.png" group-title="⚡SPORTS⚡",NOW HK PREMIER SPORTS 3
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:69:EE:24&stream=1032485&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/624_e.png" group-title="⚡SPORTS⚡",NOW HK PREMIER SPORTS 4
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:69:EE:24&stream=1032484&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/625_e.png" group-title="⚡SPORTS⚡",NOW HK PREMIER SPORTS 5
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:69:EE:24&stream=1032483&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/626_e.png" group-title="⚡SPORTS⚡",NOW HK PREMIER SPORTS 6
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:69:EE:24&stream=1032482&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pwAhAda.png" group-title="⚡SPORTS⚡",NOW HK PRIME๑
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:69:EE:24&stream=1032480&extension=ts
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_110_80" group-title="⚡SPORTS⚡",Now Sports 1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/NOWSPORTS1.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_110_80" group-title="⚡SPORTS⚡",Now Sports 2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/NOWSPORTS2.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_110_80" group-title="⚡SPORTS⚡",Now Sports 3
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/NOWSPORTS3.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_110_80" group-title="⚡SPORTS⚡",Now Sports 4
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/NOWSPORTS4.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_110_80" group-title="⚡SPORTS⚡",Now Sports 5
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/NOWSPORTS5.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_110_80" group-title="⚡SPORTS⚡",Now Sports 6
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/NOWSPORTS6.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_110_80" group-title="⚡SPORTS⚡",Now Sports 7
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/NOWSPORTS7.m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER1.png" group-title="⚡SPORTS⚡",HUB PREMIER 1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/HUBPREMIER1.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" group-title="⚡SPORTS⚡",HUB PREMIER 2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/HUBPREMIER2.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER3.png" group-title="⚡SPORTS⚡",HUB PREMIER 3
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/HUBPREMIER3.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER4.png" group-title="⚡SPORTS⚡",HUB PREMIER 4
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/HUBPREMIER4.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER5.png" group-title="⚡SPORTS⚡",HUB PREMIER 5
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/HUBPREMIER5.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER6.png" group-title="⚡SPORTS⚡",HUB PREMIER 6
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/HUBPREMIER6.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER7.png" group-title="⚡SPORTS⚡",HUB PREMIER 7
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/HUBPREMIER7.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER8.png" group-title="⚡SPORTS⚡",HUB PREMIER 8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/HUBPREMIER8.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="⚡SPORTS⚡"",HUB SPORTS 1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/HUBSPORTS1.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/2/25/HubSports_2.png/revision/latest?cb=20190619114541" group-title="⚡SPORTS⚡"",HUB SPORTS 2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/HUBSPORTS2.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png" group-title="⚡SPORTS⚡"",HUB SPORTS 3
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/aody007/MYIPTV2026/refs/heads/main/HUBSPORTS3.m3u8
+#EXTINF:-1 tvg-id="hubsports1.sg" tvg-name="Hub Sports 1 HD SG" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="⚡SPORTS⚡",Hub Sports 1 HD SG
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/2398931
+#EXTINF:-1 tvg-id="hubsports2.sg" tvg-name="Hub Sports 2 HD SG" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="⚡SPORTS⚡",Hub Sports 2 HD SG
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/2398932
+#EXTINF:-1 tvg-id="hubsports3.sg" tvg-name="Hub Sports 3 HD SG" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="⚡SPORTS⚡",Hub Sports 3 HD SG
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/2398962
+#EXTINF:-1 tvg-id="hubsports4.sg" tvg-name="Hub Sports 4 HD SG" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="⚡SPORTS⚡",Hub Sports 4 HD SG
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/2398976
+#EXTINF:-1 tvg-id="hubsports5.sg" tvg-name="Hub Sports 5 HD SG" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="⚡SPORTS⚡"",Hub Sports 5 HD SG
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/2398977
+
+#EXTINF:-1 tvg-id="skysport1.nz" tvg-name="Sky Sport 1 NZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/5ed7e790e31357324d7aff357a1ea730.png" group-title="⚡SPORTS⚡",Sky Sport 1 NZ
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/482874
+#EXTINF:-1 tvg-id="skysport2.nz" tvg-name="Sky Sport 2 NZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/a6b9f0bf3612b084e53247b809cecc5c.png" group-title="⚡SPORTS⚡",Sky Sport 2 NZ
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/482875
+#EXTINF:-1 tvg-id="skysport3.nz" tvg-name="Sky Sport 3 NZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/0bf9466c8f578761dadc9ce1f99f5677.png" group-title="⚡SPORTS⚡",Sky Sport 3 NZ
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/482876
+#EXTINF:-1 tvg-id="skysport4.nz" tvg-name="Sky Sport 4 NZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/eb66040f6d5b2b1b68d081dd34668033.png" group-title="⚡SPORTS⚡",Sky Sport 4 NZ
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/482877
+#EXTINF:-1 tvg-id="skysport5.nz" tvg-name="Sky Sport 5 NZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/773a17d6f9d31094cb82ed98f197cc96.png" group-title="⚡SPORTS⚡",Sky Sport 5 NZ
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/482878
+#EXTINF:-1 tvg-id="skysport6.nz" tvg-name="Sky Sport 6 NZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/7d464629e0c6826c1afcae7478a2172d.png" group-title="⚡SPORTS⚡",Sky Sport 6 NZ
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/482879
+#EXTINF:-1 tvg-id="skysport7.nz" tvg-name="Sky Sport 7 NZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/d8922f9133b9e38996ef277d5ce830a6.png" group-title="⚡SPORTS⚡",Sky Sport 7 NZ
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/482880
+#EXTINF:-1 tvg-id="skysport8.nz" tvg-name="Sky Sport 8 NZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/299061401984bbf6f42c7859bdd45ac3.png" group-title="⚡SPORTS⚡",Sky Sport 8 NZ
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/482881
+#EXTINF:-1 tvg-id="skysport9.nz" tvg-name="Sky Sport 9 NZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/bf8f52fc298816f7327ffaae3105c7b0.png" group-title="⚡SPORTS⚡",Sky Sport 9 NZ
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/482882
+#EXTINF:-1 tvg-id="skysportselect.nz" tvg-name="Sky Sport Select NZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/bf8f52fc298816f7327ffaae3105c7b0.png" group-title="⚡SPORTS⚡",Sky Sport Select NZ
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/482883
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Foot UHD FR" tvg-logo="http://51.158.145.100/picons/logos/france/1206556.png" group-title="⚡SPORTS⚡",Canal+ Foot UHD FR
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/2122911
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Premier League UHD FR" tvg-logo="http://51.158.145.100/picons/logos/france/506556.png" group-title="⚡SPORTS⚡",Canal+ Premier League UHD FR
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/2122907
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 360 UHD FR" tvg-logo="http://51.158.145.100/picons/logos/france/1206555.png" group-title="⚡SPORTS⚡",Canal+ Sport 360 UHD FR
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/2122912
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1001371.png" group-title="⚡SPORTS⚡",V SPORT PREMIER LEAGUE FHD
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/479327
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1001370.png" group-title="⚡SPORTS⚡",V SPORT PREMIER LEAGUE 1 FHD
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/479328
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1001369.png" group-title="⚡SPORTS⚡",V SPORT PREMIER LEAGUE 2 FHD
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/479329
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1001368.png" group-title="⚡SPORTS⚡",V SPORT PREMIER LEAGUE 3 FHD
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/479330
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1001367.png" group-title="⚡SPORTS⚡",V SPORT PREMIER LEAGUE 4 FHD
+http://45.139.122.199:2095/VPNQBWKu4B/ofkf5DhdOt/479331
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917367.png" group-title="⚡SPORTS⚡",GR| NOVA SPORTS PREMIER LEAGUE
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:37:19:16&stream=1917367&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917370.png" group-title="⚡SPORTS⚡",GR| NOVA SPORTS PRIME
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:37:19:16&stream=1917370&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917369.png" group-title="⚡SPORTS⚡",GR| NOVA SPORTS START
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:37:19:16&stream=1917369&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917368.png" group-title="⚡SPORTS⚡",GR| NOVA SPORTS NEWS
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:37:19:16&stream=1917368&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917364.png" group-title="⚡SPORTS⚡",GR| NOVA SPORTS 1 HD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:37:19:16&stream=1917364&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917363.png" group-title="⚡SPORTS⚡",GR| NOVA SPORTS 2 HD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:37:19:16&stream=1917363&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917362.png" group-title="⚡SPORTS⚡",GR| NOVA SPORTS 3 HD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:37:19:16&stream=1917362&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917361.png" group-title="⚡SPORTS⚡",GR| NOVA SPORTS 4 HD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:37:19:16&stream=1917361&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917360.png" group-title="⚡SPORTS⚡",GR| NOVA SPORTS 5 HD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:37:19:16&stream=1917360&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917359.png" group-title="⚡SPORTS⚡",GR| NOVA SPORTS 6 HD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:37:19:16&stream=1917359&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917358.png" group-title="⚡SPORTS⚡",GR| NOVA SPORTS PRIME
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:37:19:16&stream=1917358&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917357.png" group-title="⚡SPORTS⚡",GR| NOVA SPORTS START
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:37:19:16&stream=1917357&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917356.png" group-title="⚡SPORTS⚡",GR| NOVA SPORTS 24 HD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:37:19:16&stream=1917356&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MONOMAX 1" tvg-logo="http://apk-x.org/pics/images/rgh1754650599r.jpg" group-title="⚡SPORTS⚡",MONOMAX 1
+https://love.sayob28681.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MONOMAX 2" tvg-logo="http://apk-x.org/pics/images/bfi1754650613t.jpg" group-title="⚡SPORTS⚡",MONOMAX 2
+https://love.wolayi7869.workers.dev/lx-origin/th-monomax02bkp_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 1 HD TH [THAI]" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="⚡SPORTS⚡",Thai BeIN Sports 1 HD TH
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/115807
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 2 HD TH [THAI]" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="⚡SPORTS⚡",Thai BeIN Sports 2 HD TH
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/115809
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 3 TH [THAI]" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="⚡SPORTS⚡",Thai BeIN Sports 3 TH 
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/813150
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="⚡SPORTS⚡",SpoTV 1 TH
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/115682
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="⚡SPORTS⚡",SpoTV 2 TH
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/115686
+#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="⚡SPORTS⚡",BeIN Sports 1 HD PH
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/1841552
+#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="⚡SPORTS⚡",BeIN Sports 2 HD PH
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/1841553
+#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="⚡SPORTS⚡",BeIN Sports 3 HD PH 
+http://45.139.122.199:2095/qp6AjYHp/dg8gt7p/1841554
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="⚡SPORTS⚡",Bein Sport 1
+https://love.bebin98399.workers.dev/vx-origin/epl-bein1_720/playlist.m3u8
+https://www.livedoomovies.com:4431/02_epl1_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="⚡SPORTS⚡",Bein Sport 2
+https://love.bebin98399.workers.dev/vx-origin/epl-bein2_720/playlist.m3u8
+https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="⚡SPORTS⚡",Bein Sport 3
+https://love.bebin98399.workers.dev/vx-origin/epl-bein3_720/playlist.m3u8
+https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="⚡SPORTS⚡",True Sport HD1 
+https://love.bebin98399.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="⚡SPORTS⚡",True Sport HD2
+https://love.bebin98399.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="⚡SPORTS⚡",True Sport HD3
+https://love.bebin98399.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp" group-title="⚡SPORTS⚡",True Sport HD4
+https://www.livedoomovies.com:4431/02_sport4_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="⚡SPORTS⚡",True Sport HD5
+https://love.bebin98399.workers.dev/vx-origin/sd-tsport5_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="⚡SPORTS⚡",True Sport HD7
+https://love.bebin98399.workers.dev/vx-origin/sd-tsport7_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="⚡SPORTS⚡",SpoTV 1
+https://love.bebin98399.workers.dev/lx-origin/hd-spotvbkp_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="⚡SPORTS⚡",SpoTV 2
+https://love.bebin98399.workers.dev/lx-origin/hd-spotv2bkp_720/chunks.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/5f4fa6b3-7929-5cf5-a708-f6b3ca14020a/poster.jpg" group-title="⚡หนังใหม่2026⚡",30 ปี เดี่ยวไมโครโฟน (2026) Deaw Still Alive
+https://media.vdohls.com/f_1-avw16n3BO/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-02.duckduckcdn.com/cc9252ca-7bea-5d37-b493-77cad28bc637/poster.jpg" group-title="⚡หนังใหม่2026⚡",สงครามจักรกลถล่มโลก (2026) War Machine
+https://media.vdohls.com/Boh_2-ffd1NcT/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/96faa690-5174-5903-8f73-c67672267596/poster.jpg" group-title="⚡หนังใหม่2026⚡",อนงค์ 2..สามสี่ชาติ (2026) MY BOO 2
+https://media.vdohls.com/C-Cw_1baY1IAy/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-02.duckduckcdn.com/2c86b6c7-bab1-507f-a060-e23b7a915996/poster.jpg" group-title="⚡หนังใหม่2026⚡",4 เสือ 4 Tigers
+https://media.vdohls.com/D_t28f-UxQkYD/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-02.duckduckcdn.com/b6f9b16c-e972-5a87-a7e4-876a263a2fa6/poster.jpg" group-title="⚡หนังใหม่2026⚡",ตี๋ใหญ่ ฤกษ์ดาวโจร (2025)
+https://media.vdohls.com/Eqjz_DXD1-IDq/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-02.duckduckcdn.com/470cb6e9-3ea8-5c49-af84-e58da3b36434/poster.jpg" group-title="⚡หนังใหม่2026⚡",ห่าก้อม (2025)
+https://api.doo-nang.com/video/470cb6e9-3ea8-5c49-af84-e58da3b36434/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/46cce97d-5696-5065-8863-279251fb2690/poster.jpg" group-title="⚡หนังใหม่2026⚡",ทรอน แอรีส (2025)
+https://api.doo-nang.com/video/46cce97d-5696-5065-8863-279251fb2690/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/5c106a39-5f2c-5bd0-a004-cf4a5ab39eca/poster.jpg" group-title="⚡หนังใหม่2026⚡",หลวงพี่แจ๊สโคตรซิ่ง (2025)
+https://api.doo-nang.com/video/5c106a39-5f2c-5bd0-a004-cf4a5ab39eca/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/a5b47b9f-e83d-59ea-ae63-bb6338f286f1/poster.jpg" group-title="⚡หนังใหม่2026⚡",คนธรรมดานรกเรียกพี่ 2 (2025) Nobody 2
+https://api.doo-nang.com/video/a5b47b9f-e83d-59ea-ae63-bb6338f286f1/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-02.duckduckcdn.com/e99a4e2b-2d88-5d5a-a868-5e304ea8fe05/poster.jpg" group-title="⚡หนังใหม่2026⚡",เขาชุมทอง คะนองชุมโจร (2025)
+https://api.doo-nang.com/video/e99a4e2b-2d88-5d5a-a868-5e304ea8fe05/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-02.duckduckcdn.com/143e56c7-43f0-5e79-a979-62569c2c2d53/poster.jpg" group-title="⚡หนังใหม่2026⚡",ท่าแร่ (2025) Tha Rae: The Exorcist
+https://api.doo-nang.com/video/143e56c7-43f0-5e79-a979-62569c2c2d53/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-02.duckduckcdn.com/24f76cb3-1b6a-536c-b96c-e1a85431bbd9/poster.jpg" group-title="⚡หนังใหม่2026⚡",อภินิหารไวกิ้งพิชิตมังกร (2025)
+https://api.doo-nang.com/video/24f76cb3-1b6a-536c-b96c-e1a85431bbd9/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/93ab84c3-1ad6-58c8-bffe-faa523f044dd/poster.jpg" group-title="⚡หนังใหม่2026⚡",อภินิหารไวกิ้งพิชิตมังกร  1
+https://statics-01.duckduckcdn.com/93ab84c3-1ad6-58c8-bffe-faa523f044dd/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/fa39590d-40f0-5391-9b45-ae9c3f555ca7/poster.jpg" group-title="⚡หนังใหม่2026⚡",อภินิหารไวกิ้งพิชิตมังกร  2
+https://statics-01.duckduckcdn.com/fa39590d-40f0-5391-9b45-ae9c3f555ca7/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/d55fd19f-6c05-5023-b1d3-1021fd632b25/poster.jpg" group-title="⚡หนังใหม่2026⚡",อภินิหารไวกิ้งพิชิตมังกร  3
+https://statics-01.duckduckcdn.com/d55fd19f-6c05-5023-b1d3-1021fd632b25/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://mampost-hd.com/wp-content/uploads/2025/08/Jurassic-World-Rebirth.jpg" group-title="⚡หนังใหม่2026⚡",จูราสสิค เวิลด์ กำเนิดชีวิตใหม่ (2025)
+https://media.vdohls.com/brvxquomhnzhdzu/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/6dd219e9-d261-5bfd-a970-327a51511782/poster.jpg" group-title="⚡หนังใหม่2026⚡",มิชชัน อิมพอสซิเบิล ปิดปฏิบัติการล่าพิกัดมรณะ (2025)
+https://api.doo-nang.com/video/6dd219e9-d261-5bfd-a970-327a51511782/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-02.duckduckcdn.com/9a12c01f-e45d-5ca8-9ccc-0c56b3f9ba94/poster.jpg" group-title="⚡หนังใหม่2026⚡",นรกหยุดนรก (2025) A Working Man
+https://api.doo-nang.com/video/9a12c01f-e45d-5ca8-9ccc-0c56b3f9ba94/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/4aca356d-18a8-55fd-8e50-2f2043fe9c6d/poster.jpg" group-title="⚡หนังใหม่2026⚡",ต้องรอดก่อนย่ำรุ่ง (2025) Until Dawn
+https://api.doo-nang.com/video/4aca356d-18a8-55fd-8e50-2f2043fe9c6d/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/4d9a940b-024a-5d7c-bc6b-00b60274d290/poster.jpg" group-title="⚡หนังใหม่2026⚡",คู่พยัคฆ์เดือด เชือดเจ้าพ่อฮาวาย (2026)
+https://api.doo-nang.com/video/4d9a940b-024a-5d7c-bc6b-00b60274d290/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/12351b47-c620-56e1-90bb-57b42af2deb5/poster.jpg" group-title="⚡หนังใหม่2026⚡",สมรภูมิล่าเมือง จักรกลมรณะ (2018) Mortal engines
+https://api.doo-nang.com/video/12351b47-c620-56e1-90bb-57b42af2deb5/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://mampost-hd.com/wp-content/uploads/2026/02/Greenland.jpg" group-title="⚡หนังใหม่2026⚡",กรีนแลนด์ 2 ฝ่าชะตา โลกาวินาศ (2026)
+https://api.doo-nang.com/video/9dceafed-4d54-5913-b6f9-36411c06a1e0/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-02.duckduckcdn.com/8fd04cd1-9bb8-5cb6-b0e5-10052229dc00/poster.jpg" group-title="⚡หนังใหม่2026⚡",นรกยึดไฟลต์ (2025) Flight Risk
+https://api.doo-nang.com/video/8fd04cd1-9bb8-5cb6-b0e5-10052229dc00/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-02.duckduckcdn.com/06cbf0c4-a6c9-5ab7-93a6-110e828e9453/poster.jpg" group-title="⚡หนังใหม่2026⚡",เส้นตาย สายลวง (2026) The Red Line
+https://api.doo-nang.com/video/06cbf0c4-a6c9-5ab7-93a6-110e828e9453/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-02.duckduckcdn.com/1f2764b4-8589-5c4d-9523-d5d928bbdc5a/poster.jpg" group-title="⚡หนังใหม่2026⚡",สายสืบหน้าฮ่าน
+https://api.doo-nang.com/video/1f2764b4-8589-5c4d-9523-d5d928bbdc5a/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/ee98cc10-3ac5-5156-a2db-aca60aaa8e74/poster.jpg" group-title="⚡หนังใหม่2026⚡",มึงกู เพื่อนกันจนวันตาย
+https://api.doo-nang.com/video/ee98cc10-3ac5-5156-a2db-aca60aaa8e74/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/060aec4d-2bb0-589d-9df9-2d6b70d34255/poster.jpg" group-title="⚡หนังใหม่2026⚡",ภูพานสะอื้น
+https://api.doo-nang.com/video/060aec4d-2bb0-589d-9df9-2d6b70d34255/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/ca47816b-0e10-5601-a761-50eb2053b35c/poster.jpg" group-title="⚡หนังใหม่2026⚡",นากรักมาก ม๊ากมาก
+https://api.doo-nang.com/video/ca47816b-0e10-5601-a761-50eb2053b35c/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://9nung.com/wp-content/uploads/2025/12/5MDnvvkOqthhE5gQebzkcOhD1p5-185x278.jpg" group-title="⚡หนังใหม่2026⚡",Anaconda (2025) อนาคอนดา เลื้อยสยองโลก
+https://media.vdohls.com/9a-v_NBOpuyEV/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/a259751b-efb1-589c-9339-5407785d55e6/poster.jpg" group-title="⚡หนังใหม่2026⚡",ตาโขน
+https://statics-01.duckduckcdn.com/a259751b-efb1-589c-9339-5407785d55e6/audio-default/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/63320e09-2abd-5991-a49c-cb652bff47c8/poster.jpg" group-title="⚡หนังใหม่2026⚡",ผีตาโขน
+https://statics-01.duckduckcdn.com/63320e09-2abd-5991-a49c-cb652bff47c8/audio-default/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-02.duckduckcdn.com/4aa3f69b-94a3-54b7-afd0-7dbbfafd33ea/poster.jpg" group-title="⚡หนังใหม่2026⚡",บัลลังก์เลือด
+https://statics-02.duckduckcdn.com/4aa3f69b-94a3-54b7-afd0-7dbbfafd33ea/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/c7759b45-605c-5d37-94b0-4e05289b049e/poster.jpg" group-title="⚡หนังใหม่2026⚡",อวตาร 3: อัคนีและธุลีดิน
+https://statics-01.duckduckcdn.com/c7759b45-605c-5d37-94b0-4e05289b049e/audio-default/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/a91b6601-f758-5919-a3e1-058463d15f86/poster.jpg" group-title="⚡หนังใหม่2026⚡",อวตาร 2: วิถีแห่งสายน้ำ
+https://statics-01.duckduckcdn.com/a91b6601-f758-5919-a3e1-058463d15f86/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/2029f940-1a38-5fcd-9b87-93ab43d40a07/poster.jpg" group-title="⚡หนังใหม่2026⚡",อวตาร 1: Avatar(2009)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.123-hds.com/
+https://main.24playerhd.com/m3u8/63360af3026a8a937c87faf7/63360af3026a8a937c87faf7438.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/312ad1aa-5c03-56f3-b360-98d7af374286/poster.jpg" group-title="⚡หนังใหม่2026⚡",ปฏิบัติการเดือดเลือดล้างเลือด
+https://statics-01.duckduckcdn.com/312ad1aa-5c03-56f3-b360-98d7af374286/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/1b0d3084-c17a-57f2-a431-b259eb2c5666/poster.jpg" group-title="⚡หนังใหม่2026⚡",มือปืน
+https://statics-01.duckduckcdn.com/1b0d3084-c17a-57f2-a431-b259eb2c5666/audio-default/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-01.duckduckcdn.com/70836193-feec-5ae8-9ebf-b9f036ffb78b/poster.jpg" group-title="⚡หนังใหม่2026⚡",หมู่บ้านโคกะโหลก
+https://api.doo-nang.com/video/70836193-feec-5ae8-9ebf-b9f036ffb78b/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://mampost-hd.com/wp-content/uploads/2026/04/Apex-360x540.jpg" group-title="⚡หนังใหม่2026⚡",Apex ห่วงโซ่สังหาร (2026)
+https://player3.fastfastcdn.com/ttplaylist_855fdab555711b83b38a6d583b5c90d3720.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://mampost-hd.com/wp-content/uploads/2026/04/The-Super-Mario-Galaxy-Movie-360x540.jpg" group-title="⚡หนังใหม่2026⚡",เดอะ ซูเปอร์ มาริโอ กาแล็คซี่ มูฟวี่ (2026)
+https://player3.fastfastcdn.com/ttplaylist_886de603d77a5d868d512d94d38dc499720.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://mampost-hd.com/wp-content/uploads/2025/08/Creation-of-the-Gods-II-Demon-Force.jpg" group-title="⚡หนังใหม่2026⚡",กำเนิดเทพเจ้า ตอน มหาศึกเทพยุทธ (2025)
+https://player3.fastfastcdn.com/ttplaylist_d33b19ce039ac4c3ac1f5f7baad54f78.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://mampost-hd.com/wp-content/uploads/2025/07/The-Fantastic-Four.jpg" group-title="⚡หนังใหม่2026⚡",เดอะ แฟนแทสติก 4 จุดเริ่มต้นปฐมบทใหม่ (2025)
+https://player3.fastfastcdn.com/ttplaylist_3cd6fbfb56a7c9042270969f2b155f99720.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://mampost-hd.com/wp-content/uploads/2025/07/Superman-%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-2025.jpg" group-title="⚡หนังใหม่2026⚡",Superman ซูเปอร์แมน (2025)
+https://player3.fastfastcdn.com/ttplaylist_1d8868003f2bb111f0f492b503487a3e720.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://mampost-hd.com/wp-content/uploads/2026/03/Den-of-Thieves-2-Pantera.jpg" group-title="⚡หนังใหม่2026⚡",โคตรนรกปล้นเหนือเมฆ แพนเธอรา (2025)
+https://player3.fastfastcdn.com/ttplaylist_d04258918e2f63504fc514de92257320.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://statics-02.duckduckcdn.com/85e47f0f-a098-52b6-8f5f-23296a6caa67/poster.jpg" group-title="⚡หนังใหม่2026⚡",พนอ 2 2026
+https://api.doo-nang.com/video/85e47f0f-a098-52b6-8f5f-23296a6caa67/playlist.m3u8
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+###เป็นต่อ2025###
+
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP01
+https://main.24playerhd.com/m3u8/b441e6702b78b0414094ae4b/b441e6702b78b0414094ae4b438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP02
+https://main.24playerhd.com/m3u8/ce532a4d32a2fdb1e7a8aa60/ce532a4d32a2fdb1e7a8aa60438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP03
+https://main.24playerhd.com/m3u8/362526ca5d6f53adbbc4f5ad/362526ca5d6f53adbbc4f5ad438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP04
+https://main.24playerhd.com/m3u8/eb6711a5a5774fc7a9532fc8/eb6711a5a5774fc7a9532fc8438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP05
+https://main.24playerhd.com/m3u8/cbe4bb8b18c38a8dcadb7b9d/cbe4bb8b18c38a8dcadb7b9d438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP06
+https://main.24playerhd.com/m3u8/873ba285955ab8c7af3375bc/873ba285955ab8c7af3375bc438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP07
+https://main.24playerhd.com/m3u8/7824dcbd9520cc3b54e1b5e7/7824dcbd9520cc3b54e1b5e7438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP08
+https://main.24playerhd.com/m3u8/6dc2d2ea46d52c0b1307d94f/6dc2d2ea46d52c0b1307d94f438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP09
+https://main.24playerhd.com/m3u8/d06ad3847c1bdd3ec9069cd9/d06ad3847c1bdd3ec9069cd9438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP10
+https://main.24playerhd.com/m3u8/74ac7f88aad6f55657f2f03a/74ac7f88aad6f55657f2f03a438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP11
+https://main.24playerhd.com/m3u8/1e13f206a8ea00356914e1e4/1e13f206a8ea00356914e1e4438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP12
+https://main.24playerhd.com/m3u8/1dd05a007a131fd4b12a9aa8/1dd05a007a131fd4b12a9aa8438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP13
+https://main.24playerhd.com/m3u8/fff38f00773861ec78f5344e/fff38f00773861ec78f5344e438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP14
+https://main.24playerhd.com/m3u8/c6eae02444f8245b63cd99b6/c6eae02444f8245b63cd99b6438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP15
+https://main.24playerhd.com/m3u8/36de56bb4dfc2cfb18f49422/36de56bb4dfc2cfb18f49422438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP16
+https://main.24playerhd.com/m3u8/a614765e2d48e752867138e0/a614765e2d48e752867138e0438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP17
+https://main.24playerhd.com/m3u8/65eaadd60d2bf56dcf285564/65eaadd60d2bf56dcf285564438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP18
+https://main.24playerhd.com/m3u8/412e8c62ec4753c44e822461/412e8c62ec4753c44e822461438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP19
+https://main.24playerhd.com/m3u8/08c29c4aac7175f723794084/08c29c4aac7175f723794084438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP20
+https://main.24playerhd.com/m3u8/ef206d96731fdc3a01ed6e35/ef206d96731fdc3a01ed6e35438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP21
+https://main.24playerhd.com/m3u8/1f2f1731559f42b1ef2a57e3/1f2f1731559f42b1ef2a57e3438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP22
+https://main.24playerhd.com/m3u8/a0e35fe978ab021652400b01/a0e35fe978ab021652400b01438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP23
+https://main.24playerhd.com/m3u8/fc2c3731e91e6a2fae1fa3aa/fc2c3731e91e6a2fae1fa3aa438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP24
+https://main.24playerhd.com/m3u8/8cfb57096cf0a71afa35a9c0/8cfb57096cf0a71afa35a9c0438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP25
+https://main.24playerhd.com/m3u8/02b040e4f2a89d85ef92f227/02b040e4f2a89d85ef92f227438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP26
+https://main.24playerhd.com/m3u8/6c78df2d3cc65abbcf9c9b71/6c78df2d3cc65abbcf9c9b71438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP27
+https://main.24playerhd.com/m3u8/51ddc0dd1c392fa95c4629a1/51ddc0dd1c392fa95c4629a1438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP28
+https://main.24playerhd.com/m3u8/4ec390fa3a53e7b07b4c6018/4ec390fa3a53e7b07b4c6018438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP29
+https://main.24playerhd.com/m3u8/03b5bfc6e9d9de94bc500d51/03b5bfc6e9d9de94bc500d51438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP30
+https://main.24playerhd.com/m3u8/43fbae722c21bc564ae803ca/43fbae722c21bc564ae803ca438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP31
+https://main.24playerhd.com/m3u8/bde87e3e99e407b95eddc06e/bde87e3e99e407b95eddc06e438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP32
+https://main.24playerhd.com/m3u8/b716bbb728aa3c0f6b628145/b716bbb728aa3c0f6b628145438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP33
+https://main.24playerhd.com/m3u8/b76ca443be2543d625efd495/b76ca443be2543d625efd495438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP34
+https://main.24playerhd.com/m3u8/81b4646f0080ee6c52975e90/81b4646f0080ee6c52975e90438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP35
+https://main.24playerhd.com/m3u8/22b07821837f4e4c22036539/22b07821837f4e4c22036539438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP36
+https://main.24playerhd.com/m3u8/dfb3b0e6b28146503ef4b0bb/dfb3b0e6b28146503ef4b0bb438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP37
+https://main.24playerhd.com/m3u8/aaa7237ae72f40addc927290/aaa7237ae72f40addc927290438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP38
+https://main.24playerhd.com/m3u8/a944fbe3c8dc9dc68b494939/a944fbe3c8dc9dc68b494939438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP39
+https://main.24playerhd.com/m3u8/f912a3a142eccb35bf4247f8/f912a3a142eccb35bf4247f8438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP40
+https://main.24playerhd.com/m3u8/5e047d68c03b81a3f616c405/5e047d68c03b81a3f616c405438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP41
+https://main.24playerhd.com/m3u8/8bf552760b67061a3b35daf7/8bf552760b67061a3b35daf7438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP42
+https://main.24playerhd.com/m3u8/c16056b7ebb4e5aba62b31f3/c16056b7ebb4e5aba62b31f3438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP43
+https://main.24playerhd.com/m3u8/f4ec86aec6c7f49c9f8a58ce/f4ec86aec6c7f49c9f8a58ce438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP44
+https://main.24playerhd.com/m3u8/70072b6dbd97837a8e93ab9a/70072b6dbd97837a8e93ab9a438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP45
+https://main.24playerhd.com/m3u8/a8293a0e4b7a1726fa8e19e0/a8293a0e4b7a1726fa8e19e0438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP46
+https://main.24playerhd.com/m3u8/3ad8a12f24ad11e2ece250c8/3ad8a12f24ad11e2ece250c8438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP47
+https://main.24playerhd.com/m3u8/bea636fe7310161117c6f5ee/bea636fe7310161117c6f5ee438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP48
+https://main.24playerhd.com/m3u8/2dfdd1b92bc2e889a86ad9ac/2dfdd1b92bc2e889a86ad9ac438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP49
+https://main.24playerhd.com/m3u8/ab50e04b5189b73dcf1ad9f0/ab50e04b5189b73dcf1ad9f0438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP50
+https://main.24playerhd.com/m3u8/7f661ea167b253266c73a622/7f661ea167b253266c73a622438.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2025" tvg-logo="https://img1.pic.in.th/images/2025.jpg" ,เป็นต่อ2025 EP51
+https://main.24playerhd.com/m3u8/b291d6ea36761fb5b74f87ca/b291d6ea36761fb5b74f87ca438.m3u8
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+###เป็นต่อ2026###
+
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP01
+https://www.watchlakorn.net/egdeny/4dafba1117f7e1168eff22991608e424/aGQ=/master.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP02
+https://www.watchlakorn.net/egdeny/1a3f32537bc01380b0cf23476774088a/aGQ=/master.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP03
+https://www.watchlakorn.net/egdeny/bde0c40ba0256c1beea31a5195a016de/aGQ=/master.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP04
+https://www.watchlakorn.net/egdeny/79cfc1d822896a91c0b86041b3a68777/aGQ=/master.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP05
+https://www.watchlakorn.net/egdeny/6c929d9a0b24c2b76b68c8e5be99ae5f/aGQ=/master.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP06
+https://www.watchlakorn.net/egdeny/aba181610b5811c711c10c73ace4957b/aGQ=/master.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP07
+https://www.watchlakorn.net/egdeny/5ad9e8ba46498bb31664319389a28ac9/aGQ=/master.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP08
+https://www.watchlakorn.net/egdeny/905bb68510d3d52c19e01c6c0f3ba002/aGQ=/master.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP09
+https://www.watchlakorn.net/egdeny/6f7c8b475498498825c3d2ce9e874bca/aGQ=/master.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP10
+https://www.watchlakorn.net/egdeny/ebb806f336e8d56253bf679da05441b5/aGQ=/master.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP11
+https://www.watchlakorn.net/egdeny/28e6650c2108314ee4e1a5e67dc89007/aGQ=/master.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP12
+https://www.watchlakorn.net/egdeny/cbc3d83dfefd13f5efdf6f0bd18fba67/aGQ=/master.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP13
+https://www.watchlakorn.net/egdeny/7c5f4d838cfed970d570ba3156a977bd/aGQ=/master.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP14
+https://www.watchlakorn.net/egdeny/2bf3bbef0b8c6dea16ba885722bc42e3/aGQ=/master.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP15
+https://www.watchlakorn.net/egdeny/4b6602403a6d2ded91c261e264954962/aGQ=/master.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP16
+https://www.watchlakorn.net/egdeny/a4d9cddcfa73a66969f5d52bfb4ad20c/aGQ=/master.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP17
+https://www.watchlakorn.net/egdeny/b535687286a8fe8f0b06cd0ca2dfef53/aGQ=/master.m3u8
+#EXTINF:-1 group-title="เป็นต่อ2026" tvg-logo="https://img1.pic.in.th/images/2026.png" ,เป็นต่อ2026 EP18
+https://www.watchlakorn.net/egdeny/0dee4201711a1f261d8d4670c1d9dbe7/aGQ=/master.m3u8
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ภูติผีวิถีคน 
+
+#EXTINF:-1 group-title="ภูติผีวิถีคน " tvg-logo="https://www.watchlakorn.net/storage/images/av-1767452645.jpg" ,ภูติผีวิถีคน EP01
+https://www.watchlakorn.net/egde/a2469b3519acb79a7835a4f28c09278f/Njk5Mw==/MTAwMQ==/ZGF0YTE3LzAzLTAxLTIwMjYvR2hvc3RTdG9yaWVzLTMtSmFuLTIwMjZfSEQubXA0/index-v1-a1.m3u8
+#EXTINF:-1 group-title="ภูติผีวิถีคน " tvg-logo="https://www.watchlakorn.net/storage/images/av-1767452645.jpg" ,ภูติผีวิถีคน EP02
+https://www.watchlakorn.net/egde/9e88a463ae8a6d1db95015d34d8e5605/Njk5Mw==/MTAwMg==/ZGF0YTE3LzEwLTAxLTIwMjYvR2hvc3RTdG9yaWVzLTEwLUphbi0yMDI2X0hELm1wNA==/index-v1-a1.m3u8
+#EXTINF:-1 group-title="ภูติผีวิถีคน " tvg-logo="https://www.watchlakorn.net/storage/images/av-1767452645.jpg" ,ภูติผีวิถีคน EP03
+https://www.watchlakorn.net/egdeny/93827e4befc97ccd28dd6c193ad9488a/aGQ=/master.m3u8
+#EXTINF:-1 group-title="ภูติผีวิถีคน " tvg-logo="https://www.watchlakorn.net/storage/images/av-1767452645.jpg" ,ภูติผีวิถีคน EP04
+https://www.watchlakorn.net/egdeny/44a2755053ed8566758f5e5520aacd61/aGQ=/master.m3u8
+#EXTINF:-1 group-title="ภูติผีวิถีคน " tvg-logo="https://www.watchlakorn.net/storage/images/av-1767452645.jpg" ,ภูติผีวิถีคน EP05
+https://www.watchlakorn.net/egdeny/a2469b3519acb79a7835a4f28c09278f/aGQ=/master.m3u8
+#EXTINF:-1 group-title="ภูติผีวิถีคน " tvg-logo="https://www.watchlakorn.net/storage/images/av-1767452645.jpg" ,ภูติผีวิถีคน EP06
+https://www.watchlakorn.net/egdeny/9004b48f293fb5782ca1a73f2c6f2af2/aGQ=/master.m3u8
+#EXTINF:-1 group-title="ภูติผีวิถีคน " tvg-logo="https://www.watchlakorn.net/storage/images/av-1767452645.jpg" ,ภูติผีวิถีคน EP07
+https://www.watchlakorn.net/egdeny/930064adc0d3c73f3d56f5032bdabdf4/aGQ=/master.m3u8
+#EXTINF:-1 group-title="ภูติผีวิถีคน " tvg-logo="https://www.watchlakorn.net/storage/images/av-1767452645.jpg" ,ภูติผีวิถีคน EP08
+https://www.watchlakorn.net/egdeny/17c1b023ba1d0d3cc9e899da053f1581/aGQ=/master.m3u8
+#EXTINF:-1 group-title="ภูติผีวิถีคน " tvg-logo="https://www.watchlakorn.net/storage/images/av-1767452645.jpg" ,ภูติผีวิถีคน EP09
+https://www.watchlakorn.net/egdeny/68b048de0872f5107240f352e7ce4340/aGQ=/master.m3u8
+#EXTINF:-1 group-title="ภูติผีวิถีคน " tvg-logo="https://www.watchlakorn.net/storage/images/av-1767452645.jpg" ,ภูติผีวิถีคน EP10
+https://www.watchlakorn.net/egdeny/a0f95831b10264bcb8a3e0119a45fd48/aGQ=/master.m3u8
+#EXTINF:-1 group-title="ภูติผีวิถีคน " tvg-logo="https://www.watchlakorn.net/storage/images/av-1767452645.jpg" ,ภูติผีวิถีคน EP11
+https://www.watchlakorn.net/egdeny/d78493be4304698c3c767c07b160ef79/aGQ=/master.m3u8
+#EXTINF:-1 group-title="ภูติผีวิถีคน " tvg-logo="https://www.watchlakorn.net/storage/images/av-1767452645.jpg" ,ภูติผีวิถีคน EP12
+https://www.watchlakorn.net/egdeny/4d8048beb1e5c359a40e960c3d03c0b1/aGQ=/master.m3u8
+#EXTINF:-1 group-title="ภูติผีวิถีคน " tvg-logo="https://www.watchlakorn.net/storage/images/av-1767452645.jpg" ,ภูติผีวิถีคน EP13
+https://www.watchlakorn.net/egdeny/69e12d12df40803ff206cc227edf4fd5/aGQ=/master.m3u8
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+วันพีซ ONE PIECE ซีซั่น 2
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://subserieshd.com/img/One-Piece-Season-2.jpg?v=1001" group-title="วันพีซ ONE PIECE ซีซั่น 2",วันพีซ ONE PIECE ซีซั่น 2 S02E01 HD
+https://main.24playerhd.com/m3u8/fd17b6714907f3ec223380da/fd17b6714907f3ec223380da438.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://subserieshd.com/img/One-Piece-Season-2.jpg?v=1001" group-title="วันพีซ ONE PIECE ซีซั่น 2",วันพีซ ONE PIECE ซีซั่น 2 S02E02 HD
+https://main.24playerhd.com/m3u8/d7beba3e2481a0e063d4d855/d7beba3e2481a0e063d4d855438.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://subserieshd.com/img/One-Piece-Season-2.jpg?v=1001" group-title="วันพีซ ONE PIECE ซีซั่น 2",วันพีซ ONE PIECE ซีซั่น 2 S02E03 HD
+https://main.24playerhd.com/m3u8/5bd479d460714c0cc4a1ff27/5bd479d460714c0cc4a1ff27438.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://subserieshd.com/img/One-Piece-Season-2.jpg?v=1001" group-title="วันพีซ ONE PIECE ซีซั่น 2",วันพีซ ONE PIECE ซีซั่น 2 S02E04 HD
+https://main.24playerhd.com/m3u8/e48769de639a5e280a7d6160/e48769de639a5e280a7d6160438.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://subserieshd.com/img/One-Piece-Season-2.jpg?v=1001" group-title="วันพีซ ONE PIECE ซีซั่น 2",วันพีซ ONE PIECE ซีซั่น 2 S02E05 HD
+https://main.24playerhd.com/m3u8/d759353a8ce8d400a0dfab38/d759353a8ce8d400a0dfab38438.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://subserieshd.com/img/One-Piece-Season-2.jpg?v=1001" group-title="วันพีซ ONE PIECE ซีซั่น 2",วันพีซ ONE PIECE ซีซั่น 2 S02E06 HD
+https://main.24playerhd.com/m3u8/2cb430c63c9a29043d59184a/2cb430c63c9a29043d59184a438.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://subserieshd.com/img/One-Piece-Season-2.jpg?v=1001" group-title="วันพีซ ONE PIECE ซีซั่น 2",วันพีซ ONE PIECE ซีซั่น 2 S02E07 HD
+https://main.24playerhd.com/m3u8/891fb89da63372a3a2f3258b/891fb89da63372a3a2f3258b438.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://subserieshd.com/img/One-Piece-Season-2.jpg?v=1001" group-title="วันพีซ ONE PIECE ซีซั่น 2",วันพีซ ONE PIECE ซีซั่น 2 S02E08 HD
+https://main.24playerhd.com/m3u8/595e41c0f6540119b508daf2/595e41c0f6540119b508daf2438.m3u8
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ล่าหยก
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP1 HD
+https://statics-01.duckduckcdn.com/8a8dc5d2-f219-5a51-aae8-571c76dac07b/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP2 HD
+https://statics-01.duckduckcdn.com/c50d5ad1-08fd-5554-99bb-704d6fcaa4f0/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP3 HD
+https://statics-01.duckduckcdn.com/f0804e96-dd7b-5af9-a50c-d7bca4a1bb37/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP4 HD
+https://statics-01.duckduckcdn.com/f8a4cc9b-7ff5-538a-a5ec-b952056be470/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP5 HD
+https://statics-01.duckduckcdn.com/16d716d1-8ff8-5c14-8c6c-7ccfa6849bc2/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP6 HD
+https://statics-01.duckduckcdn.com/033f3270-cc4b-5aff-b87b-af478d076e64/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP7 HD
+https://statics-01.duckduckcdn.com/5a407afe-d03a-5737-b70f-65d143d55168/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP8 HD
+https://statics-02.duckduckcdn.com/312f38e3-bed6-5e5f-bc59-5485975fca41/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP9 HD
+https://statics-02.duckduckcdn.com/1c0b2fea-55fc-5162-a5a1-a2911c0276bd/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP10 HD
+https://statics-01.duckduckcdn.com/616c0043-c8c4-5f27-98e0-213b54e3778a/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP11 HD
+https://statics-01.duckduckcdn.com/73c9aeb8-9378-5b1d-905b-252ebb209758/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP12 HD
+https://statics-02.duckduckcdn.com/932b037e-3d83-59b0-bdd5-1d1e1f03f3ca/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP13 HD
+https://statics-02.duckduckcdn.com/4351b8c4-66ee-5d05-a0b7-9d78729a479a/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP14 HD
+https://statics-01.duckduckcdn.com/86808bfb-b26e-5ed4-a955-8bfc13e8f937/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP15 HD
+https://statics-01.duckduckcdn.com/4fec0e30-5fae-5445-a60a-db6802791fa6/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP16 HD
+https://statics-02.duckduckcdn.com/5af00972-02a3-535c-8b7f-cca3b5b9cd3b/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP17 HD
+https://statics-02.duckduckcdn.com/0506311a-134e-5436-948f-62e053647782/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP18 HD
+https://statics-02.duckduckcdn.com/e6d5c11f-eb8d-5dce-a310-cc7730f45455/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP19 HD
+https://statics-02.duckduckcdn.com/345cb344-14ab-5226-9fee-465db06b3725/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP20 HD
+https://statics-02.duckduckcdn.com/65b99c23-0b47-5e16-895b-9d6fa4e5f11e/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP21 HD
+https://statics-02.duckduckcdn.com/b6659fda-e818-5f30-971f-519c4d83fae3/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP22 HD
+https://statics-01.duckduckcdn.com/bb3f8268-8858-5702-882c-76553d8f5149/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP23 HD
+https://statics-01.duckduckcdn.com/64106f38-2349-5760-a8fe-eb9a816219fb/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP24 HD
+https://statics-02.duckduckcdn.com/3cb27240-572d-5759-9da4-8207727dfb32/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP25 HD
+https://statics-01.duckduckcdn.com/b93f345a-ff21-566c-9067-7db1c99db312/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP26 HD
+https://statics-02.duckduckcdn.com/438780ff-23f3-58aa-9ffb-ab152183f248/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP27 HD
+https://statics-01.duckduckcdn.com/196b9453-d839-55c6-a117-6a41579b78c9/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP28 HD
+https://statics-02.duckduckcdn.com/282b662b-7985-5d75-a940-9ef73ab6a8e4/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP29 HD
+https://statics-02.duckduckcdn.com/5d5af09a-07a5-5a92-8d83-f80bfcb85c9c/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP30 HD
+https://statics-02.duckduckcdn.com/67615eb4-d7f5-51da-8fe9-c1906b1c0427/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP31 HD
+https://statics-02.duckduckcdn.com/e6c514d0-2f74-52d9-aa86-c111a6ef04cd/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP32 HD
+https://statics-02.duckduckcdn.com/b24e9e47-695f-5b00-a53d-a69c41992dc3/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP33 HD
+https://statics-01.duckduckcdn.com/73bd8594-0adc-5301-976d-89a2f958aa8b/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP34 HD
+https://statics-02.duckduckcdn.com/c16a29fc-c9f4-5c53-8aae-4e6c012f89a9/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP35 HD
+https://statics-01.duckduckcdn.com/15f5d198-01b8-5601-87a5-af8f0570ee6a/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP36 HD
+https://statics-02.duckduckcdn.com/9caf5be3-ca2c-562a-bee9-70d74d81d7f1/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP37 HD
+https://statics-01.duckduckcdn.com/be40a180-6191-544a-bd03-c6e900ee191f/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP38 HD
+https://statics-02.duckduckcdn.com/b365773f-21ab-5b45-8a3f-9aa1a8a9d7e5/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP39 HD
+https://statics-01.duckduckcdn.com/378bf163-3bc1-5c0d-b615-40d5f758a74c/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://flixmono.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99-Pursuit-of-Jade-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%81-2026-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-EP.1-40-%E0%B8%88%E0%B8%9A.jpg" group-title="ล่าหยก",ล่าหยก Pursuit of Jade EP40 HD
+https://statics-01.duckduckcdn.com/9ca29481-dec0-5f2f-a630-2b2232d23148/audio-tha/audio.m3u8
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
