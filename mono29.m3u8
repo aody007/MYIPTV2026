@@ -3,4 +3,6 @@
 #EXT-X-ALLOW-CACHE:YES
 
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,NAME="1"
-https://ix-subheader-ended.eatmorebanana.org:9501/v3/b9clL2UznXTzPh3L4oJV1Q/1781505078/bc8f5bc113dacfcd300f234a7c70808f/A9V4ciezaTpaHH1EXp3OMw/1781515758/live/lx-origin/hd-monobkp_480/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://58-64-48-72-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0016/HLS/V0016-avc1_2500000=10003.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=243c53fea5381c9fb9264cb932b520d3&chunkHttps=true&tmid=V0016&tpbk=4f217FsTQQ0yP65n&rrt=1781505194&tmod=rfk&rsid=539d73de-bf73-4719-9353-880c6bb3f916&tuid=cadba4e0a8&cdn=redfox-https&tdid=8a0e4abdacfd7e31dac09491387e7d47&origin=anevia&tfa=f0-fc&tttl=1781591593
