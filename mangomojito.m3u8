@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-ALLOW-CACHE:YES
-
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,NAME="1"
-https://lb-live-m.sky-cdn.com/mv/boomerang.m3u8?expires=1781259267&uta=IT_CjqbJjRMkhHrpPB31vQ
