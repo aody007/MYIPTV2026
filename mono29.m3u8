@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,NAME="1"
+https://p0.cdn.vet/live/ch38/i/ch38i.m3u8?sid=b5yMTFlY2NlMGI3MmFkOTRkMmRhOANDJmN2E2Njk5OGVhMzll
+https://ix-subheader-ended.eatmorebanana.org:9501/v3/b9clL2UznXTzPh3L4oJV1Q/1781505078/bc8f5bc113dacfcd300f234a7c70808f/A9V4ciezaTpaHH1EXp3OMw/1781515758/live/lx-origin/hd-monobkp_480/playlist.m3u8
