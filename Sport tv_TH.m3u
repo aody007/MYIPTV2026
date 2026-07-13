@@ -16,6 +16,35 @@ http://139.99.61.175:25461/M9005/6825/13766
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="PREMIUM SPORTS",Bein Sport 3
 http://139.99.61.175:25461/M9005/6825/152
 
-
+#EXTINF:-1 group-title="PREMIUM SPORTS"tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",Astro Grandstand
+http://139.99.61.175:25461/M9005/6825/146
+#EXTINF:-1 group-title="PREMIUM SPORTS"tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png",Astro Football
+http://139.99.61.175:25461/M9005/6825/147
+#EXTINF:-1 group-title="PREMIUM SPORTS"tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",Astro Premier League
+http://139.99.61.175:25461/M9005/6825/144
+#EXTINF:-1 group-title="PREMIUM SPORTS"tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png",Astro Premier League2
+http://139.99.61.175:25461/M9005/6825/145
+#EXTINF:-1 group-title="PREMIUM SPORTS"tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena
+http://139.99.61.175:25461/M9005/6825/142
+#EXTINF:-1 group-title="PREMIUM SPORTS"tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png",Astro Arena 2
+http://139.99.61.175:25461/M9005/6825/143
+#EXTINF:-1 group-title="PREMIUM SPORTS"tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",Astro Golf
+http://139.99.61.175:25461/M9005/6825/155
+#EXTINF:-1 group-title="PREMIUM SPORTS"tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/bnz2cj1731234507.png",Astro Crickket
+http://139.99.61.175:25461/M9005/6825/157
+#EXTINF:-1 group-title="PREMIUM SPORTS"tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png",Astro Bola
+http://139.99.61.175:25461/M9005/6825/13779
+#EXTINF:-1 group-title="PREMIUM SPORTS"tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png",Astro Bola2
+http://139.99.61.175:25461/M9005/6825/13780
+#EXTINF:-1 group-title="PREMIUM SPORTS"tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png",Astro Badminton
+http://139.99.61.175:25461/M9005/6825/28006
+#EXTINF:-1 group-title="PREMIUM SPORTS"tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png",Astro Sports PLUS
+http://139.99.61.175:25461/M9005/6825/28008
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/SoccerChannel.png/revision/latest/scale-to-width-down/1000?cb=20200909232957" group-title="PREMIUM SPORTS",Soccer Channel
+http://139.99.61.175:25461/M9005/6825/63090
+#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-title="PREMIUM SPORTS",W-Sport
+http://139.99.61.175:25461/M9005/6825/148
+#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png" group-title="PREMIUM SPORTS",Permier Sport
+http://139.99.61.175:25461/M9005/6825/188
 
 
