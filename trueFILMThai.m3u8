@@ -3,5 +3,4 @@
 #EXT-X-ALLOW-CACHE:YES
 
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,NAME="1"
-#EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/1874/playlist.m3u8
