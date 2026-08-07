@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,NAME="1"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://kicksball.com/tv
+https://dov.streaming-api.xyz/kicksballcom/rush-stories/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjYgODo0MDo0NyBBTSZoYXNoX3ZhbHVlPUZyRnZpMG83S0ozZ1JPeVdJMmdLNnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
